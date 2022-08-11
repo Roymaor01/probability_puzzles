@@ -7,7 +7,7 @@
 
     <string name="app_link">Challenge yourself with probability puzzles &#8212; install the app at https://play.google.com/store/apps/details?id=atorch.statspuzzles</string>
     <string-array name="congratulations">
-        <item>עבודה טובה! מוכנים לחידה נוספת</item>
+        <item>\?עבודה טובה! מוכנים לחידה נוספת</item>
         <item>!נכון מאוד &#8212; עבודה מצויינת</item>
         <item>!מרשים מאוד</item>
         <item>!בראבו, עשיתם את זה</item>
@@ -15,13 +15,13 @@
         <item>!אתם טובים מדיי בזה</item>
         <item>You nailed it once again &#8212; nice one!</item>
         <item>Give yourself a big pat on the back, you earned it!</item>
-        <item>Outstanding work!</item>
+        <item>!עבודה יוצא מהכלל</item>
         <item>Outstanding &#8212; now you can impress your friends!</item>
         <item>Great work! Think you can solve them all?</item>
         <item>You\'re a first-rate puzzle solver, if you ask me!</item>
         <item>You\'re the smartest person to ever install this app. Keep it up!</item>
         <item>You got it &#8212; high five!</item>
-        <item>Boom &#8212; you did it!</item>
+        <item>!בום &#8212; עשיתם את זה</item>
         <item>Good work! Keep up the mental exercise.</item>
         <item>Nice job! You\'re getting smarter with every puzzle.</item>
         <item>Yes, terrific work! That\'s what I call solving a puzzle.</item>
@@ -29,54 +29,54 @@
         <item>Very nice work &#8212; Laplace would be impressed!</item>
         <item>If there were a Nobel Prize for probability puzzles, I bet you\'d win!</item>
         <item>Oh yeah &#8212; you got it!</item>
-        <item>Go out and celebrate: you earned it!</item>
-        <item>You\'re unstoppable!</item>
-        <item>Wow, you made it look easy!</item>
+        <item>!צאו לחגוג, הרווחתם את זה ביושר</item>
+        <item>!אתם בלתי ניתנים לעצירה</item>
+        <item>!וואו, איתכם החידה נראית קלה</item>
         <item>Great job! How about celebrating by crushing the next puzzle?</item>
         <item>Excellent work! Think you can solve the next one?</item>
-        <item>Impressive! You\'re getting smarter with each one.</item>
+        <item>!מרשים, אתם נעשים חכמים בכל חידה</item>
         <item>You\'re a probability hero! Are you ready for your next challenge?</item>
     </string-array>
     <string name="solved_all_puzzles">Impressive &#8212; you\'ve solved all the puzzles in this level!</string>
 
     <string name="solved_all_intro">You\'re all done with the intro! Are you ready for something more difficult?</string>
 
-    <string name="title_activity_new_settings">Settings</string>
+    <string name="title_activity_new_settings">הגדרות</string>
 
     <string name="congratulations_first_intro">Nice job! If you\'re already a probability expert, feel free to jump back to the main menu and try some difficult questions.</string>
     <string name="congratulations_first_0">You just rocked your first easy peasy puzzle!</string>
     <string name="congratulations_first_1">Welcome to the big leagues: you just solved your first serious puzzle!</string>
     <string name="congratulations_first_2">Slow down there, cowboy &#8212; that\'s a challenging puzzle you just solved!</string>
 
-    <string name="button_intro">Intro</string>
-    <string name="button_level_0">Easy Peasy</string>
-    <string name="button_level_1">Getting Serious</string>
-    <string name="button_level_2">Outrageous</string>
-    <string name="button_hint">Need a hint?</string>
+    <string name="button_intro">הקדמה</string>
+    <string name="button_level_0">קלי קלות</string>
+    <string name="button_level_1">רמה בינונית</string>
+    <string name="button_level_2">קשה במיוחד</string>
+    <string name="button_hint">/?צריכים רמז</string>
 
     <string-array name="levelDescriptions">
-        <item>Level: easy peasy &#8212; you\'re just warming up.</item>
-        <item>Level: getting serious &#8212; you may need a pen and paper.</item>
-        <item>Level: outrageous &#8212; clicking that third button was a bold move.</item>
+        <item>.שלב: קלי קלות &#8212; אתם רק מתחממים</item>
+        <item>.שלב: קמה בינונית &#8212; תצטרכו כנראה נייר ועפרון</item>
+        <item>.שלב: קשה במיוחד &#8212; בחירה לאמיצים בלבד</item>
     </string-array>
 
-    <string name="puzzle">Puzzle %d</string>
+    <string name="puzzle">חידה %d</string>
     <string name="approximate_result">≈ %s</string>
-    <string name="main_menu_button">Main Menu</string>
+    <string name="main_menu_button">תפריט ראשי</string>
     <string name="stay_here_button">Stay Here</string>
-    <string name="button_back_to_puzzle">Back to Puzzle</string>
-    <string name="next_puzzle_button">Next Puzzle</string>
-    <string name="okay_button">Okay</string>
+    <string name="button_back_to_puzzle">חזרה לחידה</string>
+    <string name="next_puzzle_button">חידה הבאה</string>
+    <string name="okay_button">אוקיי</string>
     <string name="ok_button">OK</string>
 
     <string name="solved">solved %d / %d</string>
 
-    <string name="action_share">Share</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_share">שתף</string>
+    <string name="action_settings">הגדרות</string>
     <string name="reset_user_data">Reset Data</string>
-    <string name="title_activity_solve_puzzle">Solve Puzzle</string>
-    <string name="user_answer_hint">Answer here</string>
-    <string name="button_submit_answer">Submit</string>
+    <string name="title_activity_solve_puzzle">פתרו חידה</string>
+    <string name="user_answer_hint">ענו כאן</string>
+    <string name="button_submit_answer">שלח</string>
     <string name="answer_parsing_hint">Your answer can include math:\n try 0.25 or 1/4 or (1/2)^2 or 1/(2*2).</string>
     <string name="swipe_hint">Swipe horizontally to see another puzzle.</string>
     <string name="check_mark_description">Check mark</string>
@@ -86,9 +86,9 @@
 
     <string name="apprater_title">Rate Probability Puzzles</string>
     <string name="apprater_message">Enjoying Probability Puzzles? Please take a moment to rate the app in the Play Store. Every review counts. Thank you for helping out!</string>
-    <string name="apprater_rate_button">Rate It!</string>
-    <string name="apprater_later_button">Maybe Later</string>
-    <string name="apprater_never_button">Never</string>
+    <string name="apprater_rate_button">!דרג</string>
+    <string name="apprater_later_button">מאוחר יותר</string>
+    <string name="apprater_never_button">לעולם לא</string>
 
     <string-array name="toasts_for_incorrect_answers">
         <item>Sorry, I don\'t think that\'s correct. Please keep trying!</item>
