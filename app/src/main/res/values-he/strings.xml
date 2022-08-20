@@ -12,46 +12,46 @@
         <item>!בראבו, עשיתם את זה</item>
         <item>!ברכות, זה נכון</item>
         <item>!אתם טובים מדיי בזה</item>
-        <item>You nailed it once again &#8212; nice one!</item>
-        <item>Give yourself a big pat on the back, you earned it!</item>
+        <item>!עשיתם את זה שוב &#8212; כל הכבוד</item>
+        <item>!טיפחו לעצמכם על השכם. זה מגיע לכם</item>
         <item>!עבודה יוצא מהכלל</item>
-        <item>Outstanding &#8212; now you can impress your friends!</item>
-        <item>Great work! Think you can solve them all?</item>
+        <item>!יוצא מן הכלל &#8212; עכשיו אתם יכולים להרשים את חבריכם</item>
+        <item>/?עבודה טובה! חושבים שתוכלו לפתור את הכל</item>
         <item>You\'re a first-rate puzzle solver, if you ask me!</item>
         <item>You\'re the smartest person to ever install this app. Keep it up!</item>
-        <item>You got it &#8212; high five!</item>
+        <item>!עשיתם את זה &#8212; תנו כיף</item>
         <item>!בום &#8212; עשיתם את זה</item>
         <item>Good work! Keep up the mental exercise.</item>
         <item>Nice job! You\'re getting smarter with every puzzle.</item>
-        <item>Yes, terrific work! That\'s what I call solving a puzzle.</item>
+        <item>.כן, עבודה מהממת! זה קוראים פתרון חידות</item>
         <item>I\'m impressed&#8230; you rocked that one!</item>
         <item>Very nice work &#8212; Laplace would be impressed!</item>
         <item>If there were a Nobel Prize for probability puzzles, I bet you\'d win!</item>
-        <item>Oh yeah &#8212; you got it!</item>
+        <item>!הו כן &#8212; הבנתם את זה</item>
         <item>!צאו לחגוג, הרווחתם את זה ביושר</item>
         <item>!אתם בלתי ניתנים לעצירה</item>
         <item>!וואו, איתכם החידה נראית קלה</item>
-        <item>Great job! How about celebrating by crushing the next puzzle?</item>
-        <item>Excellent work! Think you can solve the next one?</item>
+        <item>/?עבודה טובה! האם תרצו לחגוג על ידי פתרון החידה הבאה</item>
+        <item>/?עבודה מצויינת! חושבים שתוכלו לפתור את החידה הבאה</item>
         <item>!מרשים, אתם נעשים חכמים בכל חידה</item>
-        <item>You\'re a probability hero! Are you ready for your next challenge?</item>
+        <item>/?אתם גיבורים אמיתיים! מוכנים לאתגר הבא</item>
     </string-array>
-    <string name="solved_all_puzzles">Impressive &#8212; you\'ve solved all the puzzles in this level!</string>
+    <string name="solved_all_puzzles">!מרשים &#8212; השלמתם את פתרון כל החידות בשלב </string>
 
-    <string name="solved_all_intro">You\'re all done with the intro! Are you ready for something more difficult?</string>
+    <string name="solved_all_intro">?סיימתם את המבוא. האם אתם מוכנים לשלב קשה יותר</string>
 
     <string name="title_activity_new_settings">הגדרות</string>
 
     <string name="congratulations_first_intro">Nice job! If you\'re already a probability expert, feel free to jump back to the main menu and try some difficult questions.</string>
-    <string name="congratulations_first_0">You just rocked your first easy peasy puzzle!</string>
+    <string name="congratulations_first_0">!פתרתם את החידת הקלי קלות הראשונה</string>
     <string name="congratulations_first_1">Welcome to the big leagues: you just solved your first serious puzzle!</string>
     <string name="congratulations_first_2">Slow down there, cowboy &#8212; that\'s a challenging puzzle you just solved!</string>
 
-    <string name="button_intro">הקדמה</string>
+    <string name="button_intro">מבוא</string>
     <string name="button_level_0">קלי קלות</string>
     <string name="button_level_1">רמה בינונית</string>
     <string name="button_level_2">קשה במיוחד</string>
-    <string name="button_hint">/?צריכים רמז</string>
+    <string name="button_hint">\?צריכים רמז</string>
 
     <string-array name="levelDescriptions">
         <item>.שלב: קלי קלות &#8212; אתם רק מתחממים</item>
@@ -62,74 +62,74 @@
     <string name="puzzle">חידה %d</string>
     <string name="approximate_result">≈ %s</string>
     <string name="main_menu_button">תפריט ראשי</string>
-    <string name="stay_here_button">Stay Here</string>
+    <string name="stay_here_button">להשאר כאן</string>
     <string name="button_back_to_puzzle">חזרה לחידה</string>
     <string name="next_puzzle_button">חידה הבאה</string>
     <string name="okay_button">אוקיי</string>
     <string name="ok_button">OK</string>
 
-    <string name="solved">solved %d / %d</string>
+    <string name="solved">%d / %d נפתרו</string>
 
     <string name="action_share">שתף</string>
     <string name="action_settings">הגדרות</string>
-    <string name="reset_user_data">Reset Data</string>
+    <string name="reset_user_data">איפוס נתונים</string>
     <string name="title_activity_solve_puzzle">פתרו חידה</string>
     <string name="user_answer_hint">ענו כאן</string>
     <string name="button_submit_answer">שלח</string>
-    <string name="answer_parsing_hint">Your answer can include math:\n try 0.25 or 1/4 or (1/2)^2 or 1/(2*2).</string>
-    <string name="swipe_hint">Swipe horizontally to see another puzzle.</string>
+    <string name="answer_parsing_hint">התשובה יכולה לכלול ביטויים במתמטיקה:\n נסו 0.25 או 1/4 או (1/2)^2 או 1/(2*2).</string>
+    <string name="swipe_hint">.החליקו אופקית לחידה הבאה</string>
     <string name="check_mark_description">Check mark</string>
     <string name="accuracy">That\'s close to correct, but maybe you just got lucky. To convince me otherwise, please enter an answer accurate to within 0.00001. Remember, your answer can include formulas.</string>
 
     <string name="trouble_parsing_answer">I wasn\'t able to parse your answer (i.e. to translate it to a number). Please try writing it another way, using + and - for addition and subtraction, * and / for multiplication and division, and ^ for exponentiation. Use the digits 0 through 9, possibly with ( and ) as parentheses. Example valid answers are 3/(6*2) and (1/2)^3. Use dots for decimals, e.g. .2 is the same as 1/5 (or as 0.20 or 20\%).</string>
 
-    <string name="apprater_title">Rate Probability Puzzles</string>
+    <string name="apprater_title">דרגו את חידות הסתברות</string>
     <string name="apprater_message">Enjoying Probability Puzzles? Please take a moment to rate the app in the Play Store. Every review counts. Thank you for helping out!</string>
     <string name="apprater_rate_button">!דרג</string>
     <string name="apprater_later_button">מאוחר יותר</string>
     <string name="apprater_never_button">לעולם לא</string>
 
     <string-array name="toasts_for_incorrect_answers">
-        <item>Sorry, I don\'t think that\'s correct. Please keep trying!</item>
-        <item>I don\'t think that\'s right. Keep trying!</item>
-        <item>I don\'t think that\'s correct. Give it another try!</item>
-        <item>That doesn\'t look right to me. Don\'t give up!</item>
-        <item>I don\'t think that\'s the answer, but don\'t give up!</item>
-        <item>Your answers can include math like 0.01 + 11*(1/12)^2.</item>
-        <item>You can do this &#8212; don\'t give up!</item>
-        <item>I bet you can do this &#8212; keep at it!</item>
-        <item>Stick with it! I\'m sure you can solve this puzzle.</item>
+        <item>!סליחה, אך זו לא התשובה הנכונה. בבקשה המשיכו לנסות</item>
+        <item>!זה לא נכון. נסו שוב</item>
+        <item>!זה לא מדויק. בואו נסו שוב</item>
+        <item>!זה לא נראה נכון. אל תתיאשו</item>
+        <item>!זו לא התשובה. אך תפסיקו לנסות</item>
+        <item>.0.01 + 11*(1/12)^2 תשובתכם יכולה לכלול ביטויים מתמטיים כגון</item>
+        <item>!אתם יכולים לעשות את זה &#8212; אל יאוש</item>
+        <item>!מתערבים שתוכלו לפתור &#8212; המשיכו לנסות</item>
+        <item>.המשיכו לנסות! בטוח שתפתרו את החידה</item>
         <item>Your answer can include math: try + - / * and ^ (for exponents).</item>
-        <item>Think of this as mental exercise. Keep it up!</item>
-        <item>Albert Einstein solved this one when he was two years old.</item>
+        <item>!זה בעצם תרגיל מחשבתי. המשיכו לנסות</item>
+        <item>.איינשטין פתר את זה כאשר היה בן שנתיים</item>
         <item>Sorry, that\'s not quite right. Please try again!</item>
         <item>I don\'t think that\'s the right answer. Keep trying!</item>
         <item>Remember, your answer can include math: try using + - * / and ^.</item>
         <item>That\'s not quite right. In case it helps, remember that you can type * / and ^ for multiplication, division and exponentiation.</item>
         <item>Stuck? Swipe horizontally to try another puzzle &#8212; you can come back to this one later.</item>
         <item>Stuck? You can skip this puzzle for now and return to it later. Try swiping horizontally.</item>
-        <item>Keep trying!</item>
+        <item>!המשיכו לנסות</item>
         <item>Need some help? Use the share button at the top right to ask a friend.</item>
         <item>Stuck? Use the share button at the top right to ask your friends for help!</item>
         <item>Do your friends enjoy probability puzzles? Use the share button to ask them for help!</item>
         <item>You can ask a friend for help &#8212; try using the share button at the top right!</item>
-        <item>Keep thinking!</item>
+        <item>!המשיכו לחשוב</item>
         <item>Keep trying, I bet you\'ll figure it out soon!</item>
-        <item>You can solve this puzzle. Keep trying!</item>
-        <item>You can do this!</item>
+        <item>!אתם יכולים לפתור את החידה. המשיכו לנסות</item>
+        <item>!אתם יכולים לעשות את זה</item>
         <item>Your brain is getting great exercise &#8212; keep going!</item>
         <item>Think of this as mental exercise &#8212; keep going!</item>
         <item>You\'ll get much better at these with practice. Keep it up!</item>
         <item>Hang in there &#8212; no shirking!</item>
         <item>You\'re not there yet &#8212; keep trying!</item>
-        <item>C\'mon, you can do it!</item>
-        <item>Who\'s tougher, you or this puzzle?</item>
+        <item>!קדימה, אתם יכולים</item>
+        <item>/?מי קשוח יותר: אתם או החידה</item>
         <item>Hey, don\'t let this puny little puzzle push you around.</item>
         <item>That\'s not the answer I was looking for. Don\'t worry, there\'s no penalty for incorrect answers.</item>
         <item>There\'s no penalty for incorrect answers. Keep trying!</item>
         <item>You can do this &#8212; focus!</item>
-        <item>Focus! You can solve this one.</item>
-        <item>Hang in there!</item>
+        <item>.התרכזו! אתם יכולים לפתור את זה</item>
+        <item>!החזיקו מעמד</item>
         <item>You can figure this out &#8212; hang in there.</item>
         <item>You aren\'t just guessing random numbers, are you?</item>
         <item>Perhaps the answer will come to you in your sleep.</item>
@@ -143,7 +143,7 @@
         <item>You aren\'t there yet. Keep trying, it\'ll feel great when you figure it out!</item>
         <item>Keep trying! The best way to learn is to challenge yourself.</item>
         <item>Stuck? Try the hint button at the bottom of the screen.</item>
-        <item>Try reading the hint at the bottom.</item>
+        <item>.נסו לקרוא את הרמז למטה</item>
         <item>Want to come back to this one later? Swipe horizontally to try another puzzle.</item>
         <item>Having trouble? There\'s a hint button at the bottom.</item>
         <item>Difficult puzzle? Try reading the hint at the bottom of the page.</item>
